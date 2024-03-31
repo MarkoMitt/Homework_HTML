@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+p {
+    padding: 5px;
+    margin: 10px;
+}
+.roheline {
+    /*
+    color: rgb(0, 255, 0);
+    color: #00ff6a;
+    */
+    color: green;
+}
+
+#minu_taust {
+    background-color: antiquewhite;
+}
